@@ -9,20 +9,20 @@
 
 ## 🛠 Technologies & Tools
 <p align="left"> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+  <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/unity.svg" alt="css3" width="40" height="40"/> 
+  <a href="https://unity.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/unity.svg" alt="unity" width="40" height="40"/> 
   </a> 
-    <a href="https://ionicframework.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@15/icons/rider.svg" alt="ionic" width="40" height="40"/>
+    <a href="https://www.jetbrains.com/rider" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@15/icons/rider.svg" alt="rider" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/photon" alt="html5" width="40" height="40"/> 
+  <a href="https://www.photonengine.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/photon" alt="photon" width="40" height="40"/> 
   </a>
 
 
