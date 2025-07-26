@@ -8,23 +8,21 @@
 
 
 ## 🛠 Technologies & Tools
-![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white) ![JetBrains Rider](https://img.shields.io/badge/JetBrains%20Rider-000000?logo=jetbrains-rider&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Photon Engine](https://img.shields.io/badge/Photon-00325F?logo=photon&logoColor=white)
-
 <p align="left"> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/unity.svg" alt="css3" width="40" height="40"/> 
   </a> 
+    <a href="https://ionicframework.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@15/icons/rider.svg" alt="ionic" width="40" height="40"/>
+  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://ionicframework.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/photon" alt="html5" width="40" height="40"/> 
   </a>
 
 
@@ -42,7 +40,7 @@
 ## 🎮 Public Game Projects
 
 ### Drunk Summoner  
-**Platform:** PC  
+**Platforms:** WebGL, Windows, Linux, MacOS, Android  
 You’re the town’s best (and drunkest) summoner – conjure monsters mid‑bar‑round, prove your mettle (and your tolerance)!  
 Itch.io demo: [thinedgeofbalance.itch.io/drunk-summoner](https://thinedgeofbalance.itch.io/drunk-summoner)  
 Repo: [StasonicK/DrunkSummoner](https://github.com/StasonicK/DrunkSummoner)
@@ -53,9 +51,9 @@ A cheeky first‑person shooter: 2 modes, 3 songs in OST, 4 weapons, 5 levels, 6
 Play: [yandex.com/games/app/223782](https://yandex.com/games/app/223782?draft=true&lang=en)  
 Repo: [StasonicK/RunAndBoom](https://github.com/StasonicK/RunAndBoom)
 
-*…and more prototypes & shaders in [my repos](https://github.com/StasonicK?tab=repositories).*
+*…and more prototypes in [my repos](https://github.com/StasonicK?tab=repositories).*
 
 
 
-> Feel free to reach out! 🚀  
+ Feel free to reach out! 🚀  
 
