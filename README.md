@@ -4,7 +4,7 @@
 ---
 
 ## 🛠 Technologies & Tools
-![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white) ![JetBrains Rider](https://img.shields.io/badge/Rider-000000?logo=jetbrains&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Photon Engine](https://img.shields.io/badge/Photon-00325F?logo=photon&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white) ![JetBrains Rider](https://img.shields.io/badge/JetBrains%20Rider-000000?logo=jetbrains-rider&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Photon Engine](https://img.shields.io/badge/Photon-00325F?logo=photon&logoColor=white)
 
 ---
 
