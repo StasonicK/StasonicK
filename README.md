@@ -38,7 +38,6 @@
 
 
 ## 🎮 Public Game Projects
-
 ### Drunk Summoner  
 **Platforms:** WebGL, Windows, Linux, MacOS, Android  
 You’re the town’s best (and drunkest) summoner – conjure monsters mid‑bar‑round, prove your mettle (and your tolerance)!  
@@ -51,9 +50,18 @@ A cheeky first‑person shooter: 2 modes, 3 songs in OST, 4 weapons, 5 levels, 6
 Play: [yandex.com/games/app/223782](https://yandex.com/games/app/223782?draft=true&lang=en)  
 Repo: [StasonicK/RunAndBoom](https://github.com/StasonicK/RunAndBoom)
 
-*…and more prototypes in [my repos](https://github.com/StasonicK?tab=repositories).*
+
+
+## 🧪 Test Projects
+### Ogames Company Test Game  
+A test game project developed for **Ogames Company** as part of a technical assignment.  
+Repo: [StasonicK/OgamesCompanyTest](https://github.com/StasonicK/OgamesCompanyTest)
+
+### Garden of Dreams (Test Version)  
+A prototype game created as part of a **Garden of Dreams** test task.  
+Repo: [StasonicK/GardenOfDreamsTest](https://github.com/StasonicK/GardenOfDreamsTest)
 
 
 
- Feel free to reach out! 🚀  
-
+Feel free to reach out! 🚀  
+My E-mail: stanislav.anishchenko.gamedev@gmail.com
