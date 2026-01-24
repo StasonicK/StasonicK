@@ -28,13 +28,13 @@
 
 
 ## 📈 GitHub Stats
-![StasonicK’s GitHub stats](https://github-readme-stats.vercel.app/api?username=StasonicK&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StasonicK&theme=radical&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Activity)
+
 
 
 
 ## 🌐 Language Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StasonicK&layout=compact&theme=radical)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StasonicK&layout=compact&theme=radical&hide_border=true&langs_count=6&exclude_repo=unity-test,shader-playground,old-prototypes)
 
 
 ## 🎮 Public Game Projects
