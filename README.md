@@ -28,7 +28,7 @@
 
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StasonicK&theme=radical&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Activity)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StasonicK&theme=radical&show_icons=true&hide_border=true&include_all_commits=true&custom_title=GitHub%20Activity)
 
 
 
