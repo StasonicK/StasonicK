@@ -40,7 +40,7 @@
 ## 🎮 Public Game Projects
 ### Drunk Summoner  
 **Platforms:** WebGL, Windows, Linux, MacOS, Android  
-You’re the town’s best (and drunkest) summoner – conjure monsters mid‑bar‑round, prove your mettle (and your tolerance)!  
+You are the hero of the town enjoying your time in a bar! You are the hero of the town enjoying your time in a bar!
 Itch.io demo: [thinedgeofbalance.itch.io/drunk-summoner](https://thinedgeofbalance.itch.io/drunk-summoner)  
 Repo: [StasonicK/DrunkSummoner](https://github.com/StasonicK/DrunkSummoner)
 
@@ -53,11 +53,11 @@ Repo: [StasonicK/RunAndBoom](https://github.com/StasonicK/RunAndBoom)
 
 
 ## 🧪 Test Projects
-### Ogames Company Test Game  
+### Ogames Company Test Project  
 A test game project developed for **Ogames Company** as part of a technical assignment.  
 Repo: [StasonicK/OgamesCompanyTest](https://github.com/StasonicK/OgamesCompanyTest)
 
-### Garden of Dreams (Test Version)  
+### Garden of Dreams Test Project  
 A prototype game created as part of a **Garden of Dreams** test task.  
 Repo: [StasonicK/GardenOfDreamsTest](https://github.com/StasonicK/GardenOfDreamsTest)
 
